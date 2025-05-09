@@ -1,3 +1,5 @@
 # Ignore the books directory
 /books
+
+# Ignore the pycache directory
 __pycache__/
